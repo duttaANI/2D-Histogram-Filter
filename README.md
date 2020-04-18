@@ -16,6 +16,6 @@ Sense/Move Cycle
 After this cycle, we are left with an altered posterior distribution!
 
 <p align="center">
-  <img src="./images/move_sence_cycle.png" width=50% height=50% />
+  <img src="./images/move_sence_cycle.png" width=80% height=80% />
 </p>
 
