@@ -19,4 +19,5 @@ After this cycle, we are left with an altered posterior distribution!
   <img src="./images/move_sence_cycle.png" width=80% height=80% />
 </p>
 
-Note: convolution means adding of beliefs.
+Note: 1. convolution means adding of beliefs(initial belief + posterior = prior).
+      2. And after convolution we multiply beliefs (prior x posterior)
