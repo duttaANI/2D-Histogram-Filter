@@ -21,3 +21,4 @@ After this cycle, we are left with an altered posterior distribution!
 
 1. convolution means adding of beliefs(initial belief + posterior = prior).
 2. And after convolution we multiply beliefs (prior x posterior)
+3. measurement implies that robot reaches the green door.
