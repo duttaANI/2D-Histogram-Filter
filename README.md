@@ -9,6 +9,13 @@ This step is followed by normalization to ensure that the resultant distribution
 
 Sense/Move Cycle
 
+<p align="center">
+  <img src="./images/sence_move.png" width=50% height=50% />
+</p>
 
 After this cycle, we are left with an altered posterior distribution!
+
+<p align="center">
+  <img src="./images/sence_move_cycle.png" width=50% height=50% />
+</p>
 
