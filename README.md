@@ -16,7 +16,7 @@ Sense/Move Cycle
 After this cycle, we are left with an altered posterior distribution!
 
 <p align="center">
-  <img src="./images/move_sence_cycle.png" width=80% height=80% />
+  <img src="./images/move_sence_cycle.png" width=70% height=70% />
 </p>
 
 1. convolution means adding of beliefs(initial belief + posterior = prior).
