@@ -19,3 +19,4 @@ After this cycle, we are left with an altered posterior distribution!
   <img src="./images/move_sence_cycle.png" width=80% height=80% />
 </p>
 
+Note: convolution means adding of beliefs.
